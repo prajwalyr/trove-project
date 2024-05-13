@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/slider/Banner1.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/slider/Banner2.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/slider/Banner3.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 4,
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/slider/Banner4.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 5,
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/slider/Banner5.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 6,
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/slider/Banner6.webp",
+    "url": "/shop-grid-standard"
+  }
+]
